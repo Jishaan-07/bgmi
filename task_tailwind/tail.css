@@ -1,0 +1,139 @@
+.riza{
+    align-items: center;
+}
+.jishrizz{
+margin-top: 20px;
+}
+.jishrizz a{
+    text-decoration: none;
+}
+.home{
+    background-image: url("https://www.battlegroundsmobileindia.com/common/img_web/img_(1)1.png");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.hhead{
+    color: white;
+    font-size: xxx-large;
+    margin-left:3rem;
+ padding-top: 200px;
+ font-size: 90px;
+ font-family: "Archivo Black", sans-serif;}
+.apphead{
+    color: white;
+    border: solid;
+    width: 150px;
+    font-size: large;
+    border-radius: 20px;
+margin-left: 50PX;
+    text-align: center;
+}
+.apple{
+font-size: xx-large;
+align-items: center;
+}
+.apps{
+    margin-left: 3rem;
+    display: flex;
+
+}
+.play{
+    font-size: xx-large;
+}
+
+.afterhome{
+ 
+    width: 800px;
+    height: 500px;
+    margin-left:350px;
+}
+.news{
+    margin-top: 100px;
+
+}
+.newshead{
+    font-size: xxx-large;
+    font-family: "Anton", sans-serif;
+    color: rgb(97, 96, 96);
+  text-align: center;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 50px;
+  
+    
+}
+.newsimg{
+    width: 500rem;
+    height: 400px;
+    
+}
+.indiayou{
+    text-align: center;
+    font-size: xxx-large;
+    font-family: "Anton", sans-serif;
+    color: rgb(97, 96, 96);
+    padding-top: 100px;
+}
+.dragon{
+    font-family: "Bebas Neue", sans-serif;
+}
+.event{
+    color: grey;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+.jithu{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    margin-top: 100px;
+}
+#footimg{
+    padding-top: 50px;
+    padding-left: 45%;
+}
+.ikbihdn{
+    color: grey;
+    text-align: center;
+    font-size: x-large;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+@media (max-width:992px){
+    .home{
+      background-color: black;
+    }
+    .hhead{
+        font-size: xx-large;
+        text-align: center;
+        
+    }
+    .jishrizz a{
+        text-decoration: none;
+    }
+    .apps{
+        margin-top: 100px;
+    }
+    .indiayou{
+        text-align: center;
+        font-size: xx-large;
+    }
+    .afterhome{
+        width: 300px;
+        height: 200px;
+        margin-left: 80px;
+    }
+    .newsimg{
+        width: 100%;
+        height: 200px;
+    }
+    .newshead{
+        font-size: xx-large;
+    }
+}
